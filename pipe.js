@@ -40,13 +40,5 @@ class Pipe{
         ctx.fillStyle = "#20c204";
         ctx.fill();
 
-
-        // ctx.drawImage(this.bottom,
-        // this.x,this.y,this.width, myCanvas.height -this.y);
-        // ctx.restore();
-
-        // ctx.drawImage(this.top,
-        //     this.x,this.y - this.gap ,this.width, - (myCanvas.height + this.y + this.gap));
-        // ctx.restore();
     }
 }
