@@ -107,18 +107,6 @@ class Bird{
 
         ctx.restore();
 
-
-
-        // ctx.save();
-        // ctx.beginPath();
-        // ctx.drawImage(this.img,
-        //     -this.radius,
-        //     -this.radius,
-        //     this.radius/2,
-        //     this.radius/2);
-        
-        // ctx.restore();
-
     }
 
 }
