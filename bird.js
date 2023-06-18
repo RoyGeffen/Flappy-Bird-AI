@@ -17,19 +17,6 @@ class Bird{
             );
         }
         this.controles = new Constrols(controlType);
-
-
-
-        // this.img=new Image();
-        // this.img.addEventListener('load', () => {
-        //     ctx.drawImage(this.img,
-        //         -this.radius,
-        //         -this.radius,
-        //         this.radius/2,
-        //         this.radius/2);
-        //   }, false);
-        // this.img.src="images//bird.png"
-
     }
 
     update(pipes){
